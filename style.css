@@ -25,3 +25,8 @@ body
     position: sticky;
     width: 100%;
 }
+canvas{
+    border-radius: 5px;
+    border: 2px solid white;
+    box-shadow: 3px 3px 3px white;
+}
